@@ -25,6 +25,12 @@ Log analysis concepts
 Security Information and Event Management (SIEM) fundamentals
 Intrusion Detection System (IDS) concepts
 Network security fundamentals
+Database and data concepts
+SQL fundamentals (learning)
+Programming and scripting basics (learning)
+Security frameworks awareness (NIST CSF)
+Order of volatility and evidence preservation concepts
+Time management and task prioritization
 
 # Threats & Attack Awarenesss skills
 Phishing, spear phishing, vishing, and social media phishing
@@ -34,14 +40,6 @@ Password attacks
 Social engineering and physical social engineering
 USB baiting
 Supply-chain attacks
-
 Watering hole attacks
-
 Insider threats
 
-Database and data concepts
-SQL fundamentals (learning)
-Programming and scripting basics (learning)
-Security frameworks awareness (NIST CSF)
-Order of volatility and evidence preservation concepts
-Time management and task prioritization
